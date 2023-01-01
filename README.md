@@ -14,8 +14,6 @@ If you would like to start using the app with a clean slate, please make sure to
 
 To run the app locally, you will need to clone the repository and install the necessary dependencies by running **npm install**. Then, you can launch the app by running **npm start**.
 
-I hope you enjoy using Finance Deck and that it helps you take control of your finances and reach your financial goals.
-
 To use the speech control feature of Finance Deck, you will need to provide training data, this can be found in the 'speechly.txt' file . This training data consists of a list of categories for income and expenses, as well as a series of commands for interacting with the budget tracking app.
 
 The commands allow users to create, cancel, and modify transactions, as well as add categories, dates, and amounts to transactions. There are also commands for adding expenses and income to the budget.
